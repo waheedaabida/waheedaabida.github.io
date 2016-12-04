@@ -1,0 +1,10 @@
+.carousel-inner > .item > img.carouselimage{display:inline-block;}
+.thumbnail{margin-top: 50px;overflow: hidden;
+}
+.thumbnail a > .fittedthumbnail{
+	width:auto;
+	height:200px;
+	max-width: none;
+}
+
+.btn btn-link{margin-left: 10px;margin-right: 50px}
